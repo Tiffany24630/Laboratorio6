@@ -13,3 +13,35 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Archivos generados por Android Studio
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Archivos de log
+*.log
+
+# Archivos de configuración de Android Studio
+.idea/
+!.idea/codeStyles/
+!.idea/codeStyles/codeStyleConfig.xml
+
+# Archivos de Gradle
+.gradle/
+build/
+
+# Archivos de captura de pantalla
+screenshots/
+
+# Archivos de clave de firma
+*.jks
+*.keystore
+
+# Archivos de configuración específicos del entorno
+*.orig
+
+# Archivos temporales
+*.tmp
+*.temp
